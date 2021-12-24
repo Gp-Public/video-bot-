@@ -1,16 +1,16 @@
 {
-    "name": "Video x Music Stream Bot",
+    "name": "Video player",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/1c41ded2dd871eb36bd7e.png",
+    "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/1c63d830343079.564a747651c89.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/levinachannel",
-    "repository": "https://github.com/levina-lab/video-stream",
-    "success_url": "https://t.me/dlwrml",
+    "website": "https://t.me/logi_channel",
+    "repository": "https://github.com/LOGI-LAP/video-player",
+    "success_url": "https://t.me/cl_me_logesh",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
@@ -45,24 +45,24 @@
             "required": true
         },
         "GROUP_SUPPORT": {
-            "description": "if you have group, then fill the group username here without @",
+            "description": "if you have group fill it without(@) or leave it",
             "required": true,
-            "value": "VeezSupportGroup"
+            "value": "logi_channel"
         },
         "UPDATES_CHANNEL": {
-            "description": "if you have channel, then fill the channel username here without @",
+            "description": "if you have channel, then fill the channel username here without @ or leave it",
             "required": true,
-            "value": "levinachannel"
+            "value": "logi_channel"
         },
         "OWNER_NAME": {
-            "description": "fill with your telegram account username without @",
+            "description": " LEAVE IT !",
             "required": true,
-            "value": "dlwrml"
+            "value": "cl_me_logesh"
         },
         "ALIVE_NAME": {
-            "description": "fill with your telegram account nickname/name",
+            "description": " LEAVE IT !",
             "required": true,
-            "value": "Levina"
+            "value": "➳ᴹᴿ✿࿐𝑳𝑶𝑮𝑬𝑺𝑯⏤͟͟͞͞★"
         }
     },
     "addons": [],
