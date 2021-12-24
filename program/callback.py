@@ -33,10 +33,9 @@ async def cbstart(_, query: CallbackQuery):
                     )
                 ],
                 [
-                   InlineKeyboardButton(
-                        "🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂", url=f"https://t.me/cl_me_logesh"
-                    )
-                   InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
+                   InlineKeyboardButton("🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂", url=f"https://t.me/cl_me_logesh"),
+                   InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse"),
+                  ],
                 [
                     InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),
                     InlineKeyboardButton("❤ OWNER", url=f"https://t.me/{OWNER_NAME}"),
