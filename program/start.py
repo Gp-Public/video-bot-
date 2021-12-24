@@ -58,7 +58,7 @@ async def start_(client: Client, message: Message):
 
 💡 **Find out all the Bot's commands and how they work by clicking on the » 📚 Commands button!**
 
-🛠 [➳ᴹᴿ᭄𝐋𝐎𝐆𝐈♔ 💖](https://t.me/cl_me_logesh) **if any problem contact**
+🛠 [🕊.⋆𝑮𝒐𝒅༒۝꧂](https://t.me/cl_me_logesh) **if you have any problem contact**
 
 
 🔖 **To know how to use this bot, please click on the » ❓ Basic Guide button!**
@@ -74,7 +74,7 @@ async def start_(client: Client, message: Message):
                 [InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
                 [
                     InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),
-                    InlineKeyboardButton("❤️ Donate", url=f"https://t.me/{OWNER_NAME}"),
+                    InlineKeyboardButton("❤️ KING", url=f"https://t.me/{OWNER_NAME}"),
                 ],
                 [
                     InlineKeyboardButton(
