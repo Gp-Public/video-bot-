@@ -64,7 +64,12 @@ async def vplay(c: Client, m: Message):
             [
                 InlineKeyboardButton(text="• Mᴇɴᴜ", callback_data="cbmenu"),
                 InlineKeyboardButton(text="• Cʟᴏsᴇ", callback_data="cls"),
-            ]
+            ],
+            [
+                    InlineKeyboardButton(
+                        "🕊.⋆𝑮𝒐𝒅༒۝꧂", url=f"https://t.me/cl_me_logesh"
+                    )
+                ],
         ]
     )
     if m.sender_chat:
@@ -306,7 +311,12 @@ async def vstream(c: Client, m: Message):
             [
                 InlineKeyboardButton(text="• Mᴇɴᴜ", callback_data="cbmenu"),
                 InlineKeyboardButton(text="• Cʟᴏsᴇ", callback_data="cls"),
-            ]
+            ],
+            [
+                    InlineKeyboardButton(
+                        "🕊.⋆𝑮𝒐𝒅༒۝꧂", url=f"https://t.me/cl_me_logesh"
+                    )
+                ],
         ]
     )
     if m.sender_chat:
