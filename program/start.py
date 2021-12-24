@@ -89,6 +89,11 @@ async def start_(client: Client, message: Message):
                         "🌐 Source Code", url="https://github.com/LOGI-LAP/video-player"
                     )
                 ],
+                 [
+                    InlineKeyboardButton(
+                        "🕊.⋆𝑮𝒐𝒅༒۝꧂", url=f"https://t.me/cl_me_logesh"
+                    )
+                ],
             ]
         ),
         disable_web_page_preview=True,
