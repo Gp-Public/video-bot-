@@ -55,12 +55,12 @@
             "value": "logi_channel"
         },
         "OWNER_NAME": {
-            "description": " LEAVE IT !",
+            "description": " enter your username without '@' !",
             "required": true,
             "value": "cl_me_logesh"
         },
         "ALIVE_NAME": {
-            "description": " LEAVE IT !",
+            "description": " Enter your name ! ",
             "required": true,
             "value": "➳ᴹᴿ✿࿐𝑳𝑶𝑮𝑬𝑺𝑯⏤͟͟͞͞★"
         }
