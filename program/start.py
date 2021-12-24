@@ -58,6 +58,9 @@ async def start_(client: Client, message: Message):
 
 💡 **Find out all the Bot's commands and how they work by clicking on the » 📚 Commands button!**
 
+🛠 [➳ᴹᴿ᭄𝐋𝐎𝐆𝐈♔ 💖](https://t.me/cl_me_logesh) **if any problem contact**
+
+
 🔖 **To know how to use this bot, please click on the » ❓ Basic Guide button!**
 """,
         reply_markup=InlineKeyboardMarkup(
@@ -83,7 +86,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/levina-lab/video-stream"
+                        "🌐 Source Code", url="https://github.com/LOGI-LAP/video-player"
                     )
                 ],
             ]
