@@ -21,7 +21,7 @@ async def cbstart(_, query: CallbackQuery):
 
 💡 **Find out all the Bot's commands and how they work by clicking on the » 📚 Commands button!**
 
-🛠 [🕊.⋆𝑮𝒐𝒅༒۝꧂](https://t.me/cl_me_logesh) **if you have any problem contact**
+🛠 [🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂](https://t.me/cl_me_logesh) **if you have any problem contact**
 
 🔖 **To know how to use this bot, please click on the » ❓ Basic Guide button!**""",
         reply_markup=InlineKeyboardMarkup(
@@ -32,10 +32,14 @@ async def cbstart(_, query: CallbackQuery):
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     )
                 ],
-                [InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
+                [
+                   InlineKeyboardButton(
+                        "🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂", url=f"https://t.me/cl_me_logesh"
+                    )
+                   InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
                 [
                     InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),
-                    InlineKeyboardButton("❤ KING", url=f"https://t.me/{OWNER_NAME}"),
+                    InlineKeyboardButton("❤ OWNER", url=f"https://t.me/{OWNER_NAME}"),
                 ],
                 [
                     InlineKeyboardButton(
@@ -48,11 +52,6 @@ async def cbstart(_, query: CallbackQuery):
                 [
                     InlineKeyboardButton(
                         "🌐 Source Code", url="https://github.com/LOGI-LAP/video-player"
-                    )
-                ],
-                 [
-                    InlineKeyboardButton(
-                        "🕊.⋆𝑮𝒐𝒅༒۝꧂", url=f"https://t.me/cl_me_logesh"
                     )
                 ],
             ]
