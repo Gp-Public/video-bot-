@@ -58,7 +58,7 @@ async def start_(client: Client, message: Message):
 
 💡 **Find out all the Bot's commands and how they work by clicking on the » 📚 Commands button!**
 
-🛠 [🕊.⋆𝑮𝒐𝒅༒۝꧂](https://t.me/cl_me_logesh) **if you have any problem contact**
+🛠 [🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂](https://t.me/cl_me_logesh) **if you have any problem contact**
 
 
 🔖 **To know how to use this bot, please click on the » ❓ Basic Guide button!**
@@ -71,10 +71,14 @@ async def start_(client: Client, message: Message):
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     )
                 ],
-                [InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
+                [
+                 InlineKeyboardButton(
+                        "🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂", url=f"https://t.me/cl_me_logesh"
+                    )
+                 InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
                 [
                     InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),
-                    InlineKeyboardButton("❤️ KING", url=f"https://t.me/{OWNER_NAME}"),
+                    InlineKeyboardButton("❤️ OWNER", url=f"https://t.me/{OWNER_NAME}"),
                 ],
                 [
                     InlineKeyboardButton(
@@ -89,12 +93,9 @@ async def start_(client: Client, message: Message):
                         "🌐 Source Code", url="https://github.com/LOGI-LAP/video-player"
                     )
                 ],
-                 [
-                    InlineKeyboardButton(
-                        "🕊.⋆𝑮𝒐𝒅༒۝꧂", url=f"https://t.me/cl_me_logesh"
-                    )
-                ],
-            ]
+                 
+                    
+            
         ),
         disable_web_page_preview=True,
     )
