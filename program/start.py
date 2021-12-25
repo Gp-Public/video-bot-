@@ -84,7 +84,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂", url="https://t.me/cl_me_logesh"
+                        "🕊.⋆MAKE YOUR OWN BOT༒۝꧂", url="https://github.com/LOGI-LAP/video-player"
                     )
                 ],
             ]
