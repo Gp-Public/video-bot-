@@ -1,5 +1,5 @@
 {
-    "name": "Video player",
+    "name": "MUSIC AND VIDEO BOT",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
     "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/1c63d830343079.564a747651c89.jpg",
     "keywords": [
@@ -9,7 +9,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/logi_channel",
-    "repository": "https://github.com/LOGI-LAP/video-player",
+    "repository": "https://github.com/LOGI-LAP/music-video-streamer",
     "success_url": "https://t.me/cl_me_logesh",
     "env": {
         "API_ID": {
