@@ -72,7 +72,7 @@ async def start_(client: Client, message: Message):
                 [InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
                 [
                     InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),
-                    InlineKeyboardButton("🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂", url=f"https://t.me/cl_me_logesh"),
+                    InlineKeyboardButton("🕊.⋆Devil god༒۝꧂", url=f"https://t.me/{OWNER_NAME}"),
                 ],
                 [
                     InlineKeyboardButton(
@@ -83,9 +83,7 @@ async def start_(client: Client, message: Message):
                     ),
                 ],
                 [
-                   InlineKeyboardButton(
-                        "🕊.⋆Divil God༒۝꧂", url=f"https://t.me/{OWNER_NAME}"
-                     ),
+
        
                     InlineKeyboardButton(
                         "🕊.⋆source code༒۝꧂", url="https://github.com/LOGI-LAP/video-player"
