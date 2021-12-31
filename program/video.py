@@ -1,4 +1,4 @@
-# Copyright (C) 2021 By Veez Music-Project
+# Copyright (C) 2021 By logi Music-Project
 # Commit Start Date 20/10/2021
 # Finished On 28/10/2021
 
@@ -67,7 +67,7 @@ async def vplay(c: Client, m: Message):
             ],
             [
                     InlineKeyboardButton(
-                        "🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂", url=f"https://t.me/{OWNER_NAME}"
+                        "🕊.OWNER༒۝꧂", url=f"https://t.me/{OWNER_NAME}"
                     )
                 ],
         ]
@@ -184,7 +184,7 @@ async def vplay(c: Client, m: Message):
                 requester = f"[{m.from_user.first_name}](tg://user?id={m.from_user.id})"
                 await m.reply_photo(
                     photo=f"{IMG_2}",
-                    caption=f"🏷 **Name:** [{songname}]({link})\n💭 **Chat:** `{chat_id}`\n💡 **Status:** `Playing`\n🎧 **Request by:** {requester}\n📹 **Stream type:** `Video`",
+                    caption=f"🏷 **Name:** [{songname}]({link})\n💭 **Chat:** `{chat_id}`\n💡 **Status:** `Playing`\n🎧 **Request by:** {requester}\n📹 **Stream type:** `Video` \n💚**Any issues contact :**  [🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂](https://t.me/cl_me_logesh)",
                     reply_markup=keyboard,
                 )
         else:
@@ -314,7 +314,7 @@ async def vstream(c: Client, m: Message):
             ],
             [
                     InlineKeyboardButton(
-                        "🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂", url=f"https://t.me/{OWNER_NAME}"
+                        "🕊.OWNER༒۝꧂", url=f"https://t.me/{OWNER_NAME}"
                     )
                 ],
         ]
