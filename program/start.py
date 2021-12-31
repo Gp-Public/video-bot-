@@ -52,13 +52,14 @@ async def _human_time_duration(seconds):
     command(["start", f"start@{BOT_USERNAME}"]) & filters.private & ~filters.edited
 )
 async def start_(client: Client, message: Message):
+     await message.reply_sticker("CAACAgQAAxkBAAEECP1hoQ3WiZmIgZ1M6zpI4tagFYi5AQACcQsAArp60VE-Obmr9D4hkiIE")
     await message.reply_text(
         f"""✨ **Welcome {message.from_user.mention()} !**\n
 💭 **[{BOT_NAME}](https://t.me/{BOT_USERNAME}) allows you to play music and video on groups through the new Telegram's video chats!**
 
 💡 **Find out all the Bot's commands and how they work by clicking on the » 📚 Commands button!**
 
-🛠 [🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂](https://t.me/cl_me_logesh) **if you have any problems contact 💚**
+🛠 [🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂](https://t.me/cl_me_logesh) ** if you have any problems contact 💚**
 
 ❔ **To know how to use this bot, please click on the » ❓ Basic Guide button!**""",
         reply_markup=InlineKeyboardMarkup(
@@ -69,17 +70,17 @@ async def start_(client: Client, message: Message):
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     )
                 ],
-                [InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
+                [InlineKeyboardButton("🕊.⋆ Basic Guide༒۝꧂", callback_data="cbhowtouse")],
                 [
-                    InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),
-                    InlineKeyboardButton("🕊.⋆Devil god༒۝꧂", url=f"https://t.me/{OWNER_NAME}"),
+                    InlineKeyboardButton("🕊.⋆Commands༒۝꧂", callback_data="cbcmds"),
+                    InlineKeyboardButton("🕊.⋆Owner༒۝꧂", url=f"https://t.me/{OWNER_NAME}"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "👥 Official Group", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "🕊.⋆official Group༒۝꧂", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "🕊.⋆official channel༒۝꧂", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
                 [
