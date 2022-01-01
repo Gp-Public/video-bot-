@@ -18,7 +18,7 @@
 
 ## 🧪 Get `SESSION_NAME` from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py) ``Pyrogram``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py) or [stringbot](https://t.me/SessionStringGeneratorZBot) ``Pyrogram``
 
 ## 🎭 Preview
 <p align="center">
