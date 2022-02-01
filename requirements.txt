@@ -5,6 +5,7 @@ py-tgcalls
 pyrogram
 youtube-search-python
 yt-dlp
+youtube_dl
 lyricsgenius
 speedtest-cli
 youtube-search
