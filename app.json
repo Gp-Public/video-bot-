@@ -1,5 +1,5 @@
 {
-    "name": "MUSIC AND VIDEO BOT. My owner is 𝙋𝙧𝙖𝙫𝙞𝙣𝙘𝙮",
+    "name": "MUSIC AND VIDEO BOT My owner is 𝙋𝙧𝙖𝙫𝙞𝙣𝙘𝙮.",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
     "logo": "https://telegra.ph/file/c9b9a272bf4a4df97752b.jpg",
     "keywords": [
@@ -10,7 +10,7 @@
     ],
     "website": "https://t.me/logi_channel",
     "repository": "https://github.com/Gp-Public/video-bot-",
-    "success_url": "https://t.me/cl_me_logesh",
+    "success_url": "https://t.me/Gplove_Rp",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
