@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/nopita_music_bot"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/1c63d830343079.564a747651c89.jpg"></a></p>
+<p align="center"><a href="https://t.me/nopita_music_bot"><img src="https://telegra.ph/file/9314b82c0897960c25fcd.jpg"></a></p>
 <p align="center">
     <br><b>Video Stream is an Advanced Telegram Bot that's allow you to play Video & Music on Telegram Group Video Chat</b><br>
 </p>
@@ -66,7 +66,7 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LOGI-LAP/music-video-streamer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gp-Public/video-bot-)
 
 ## VPS Deployment 📡
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
@@ -88,10 +88,10 @@ python3 main.py # run the bot.
 # continue the host with screen or anything else, thanks for reading.
 ```
 
-# Credits 💖
+# Credits 🎉
 
-- [OWNER ❤](https://github.com/god-of-karmas) ``Dev``
-- [contact in telegram](https://t.me/cl_me_logesh) 
+- [𝙋𝙍𝘼𝙈𝙔𝘼𝙑𝙄𝙉𝘾𝙔](https://t.me/TeamRosi) ``𝘿𝙀𝙑``
+
 
 ### Support & Updates
 <a href="https://t.me/logi_channel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
