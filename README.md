@@ -94,4 +94,4 @@ python3 main.py # run the bot.
 
 
 ### Support & Updates
-<a href="https://t.me/logi_channel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Rosisupport"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
