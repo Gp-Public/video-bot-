@@ -67,7 +67,7 @@ async def vplay(c: Client, m: Message):
             ],
             [
                     InlineKeyboardButton(
-                        "🕊.OWNER༒۝꧂", url=f"https://t.me/{OWNER_NAME}"
+                        "𝙊𝙒𝙉𝙀𝙍🕴️", url=f"https://t.me/{OWNER_NAME}"
                     )
                 ],
         ]
@@ -314,7 +314,7 @@ async def vstream(c: Client, m: Message):
             ],
             [
                     InlineKeyboardButton(
-                        "🕊.OWNER༒۝꧂", url=f"https://t.me/{OWNER_NAME}"
+                        "𝙊𝙒𝙉𝙀𝙍🕴️", url=f"https://t.me/{OWNER_NAME}"
                     )
                 ],
         ]
