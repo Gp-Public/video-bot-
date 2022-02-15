@@ -21,14 +21,14 @@ async def cbstart(_, query: CallbackQuery):
 💡 **Find out all the Bot's commands and how they work by clicking on the » 📚 Commands button!**
 
 
-🛠 [🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂](https://t.me/cl_me_logesh) **if you have any problem contact**
+🛠 [🐾𝙋𝙍𝘼𝙑𝙄𝙉𝘾𝙔🕴️] [https://t.me/Gplove_Rp) **if you have any problem contact**
 
 ❔ **To know how to use this bot, please click on the » ❓ Basic Guide button!**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "➕ Add me to your Group ➕",
+                        "➕ 💃𝘼𝘿𝘿 𝙈𝙀 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋💃 ➕",
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                     )
                 ],
@@ -47,7 +47,7 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🕊.⋆𝙆𝙄𝙉𝙂༒۝꧂", url="https://t.me/cl_me_logesh"
+                        "🐾𝙋𝙍𝘼𝙑𝙄𝙉𝘾𝙔🕴️", url="https://t.me/Gplove_Rp"
                     )
                 ],
             ]
