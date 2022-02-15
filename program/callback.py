@@ -34,15 +34,15 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
                 [
-                    InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),
-                    InlineKeyboardButton("❤ owner", url=f"https://t.me/{OWNER_NAME}"),
+                    InlineKeyboardButton("📚 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎", callback_data="cbcmds"),
+                    InlineKeyboardButton("⭕𝙒𝙉𝙀𝙍", url=f"https://t.me/{OWNER_NAME}"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "👥 Official Group", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "💫 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𝙂𝙍𝙊𝙐𝙋", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "💫 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𝘾𝙃𝘼𝙉𝙉𝙀𝙇", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
                 [
