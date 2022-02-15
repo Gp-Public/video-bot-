@@ -1,7 +1,7 @@
 {
-    "name": "MUSIC AND VIDEO BOT",
+    "name": "MUSIC AND VIDEO BOT. My owner is 𝙋𝙧𝙖𝙫𝙞𝙣𝙘𝙮",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/1c63d830343079.564a747651c89.jpg",
+    "logo": "https://telegra.ph/file/c9b9a272bf4a4df97752b.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
@@ -9,7 +9,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/logi_channel",
-    "repository": "https://github.com/LOGI-LAP/music-video-streamer",
+    "repository": "https://github.com/Gp-Public/video-bot",
     "success_url": "https://t.me/cl_me_logesh",
     "env": {
         "API_ID": {
