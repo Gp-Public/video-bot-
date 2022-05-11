@@ -58,7 +58,7 @@ async def start_(client: Client, message: Message):
 
 💡 **Find out all the Bot's commands and how they work by clicking on the » 📚 Commands button!**
 
-🛠 **[✨✫𝗣𝗿𝗮𝘃𝗶𝗻✫✨](https://t.me/Gplove_Rp) ** if you have any problems contact 💫**
+🛠 **[✨✫𝗣𝗿𝗮ꪜ𝗶𝗻✫✨](https://t.me/Gplove_Rp) ** if you have any problems contact 💫**
 
 ❔ **To know how to use this bot, please click on the » ❓ Basic Guide button!**""",
         reply_markup=InlineKeyboardMarkup(
