@@ -21,7 +21,7 @@ async def cbstart(_, query: CallbackQuery):
 💡 **Find out all the Bot's commands and how they work by clicking on the » 📚 Commands button!**
 
 
-🛠 **[ 𝙋𝙍𝘼𝙑𝙄𝙉𝘾𝙔🕴️] [https://t.me/Gplove_Rp) **if you have any problem contact**
+🛠 **[ 𝙋𝙍𝘼𝙑𝙄𝙉𝘾𝙔🕴️] [https://t.me/Gplove_Rp)**if you have any problem contact**
 
 ❔ **To know how to use this bot, please click on the » ❓ Basic Guide button!**""",
         reply_markup=InlineKeyboardMarkup(
