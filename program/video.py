@@ -159,7 +159,7 @@ async def vplay(c: Client, m: Message):
                 requester = f"[{m.from_user.first_name}](tg://user?id={m.from_user.id})"
                 await m.reply_photo(
                     photo=f"{IMG_1}",
-                    caption=f"💡 **Track added to queue »** `{pos}`\n\n🏷 **Name:** [{songname}]({link}) | `video`\n💭 **Chat:** `{chat_id}`\n🎧 **Request by:** {requester} \n💚**Any issues contact :** [🕊.⋆𝙆𝙄𝙉𝙂](https://t.me/cl_me_logesh)",
+                    caption=f"💡 **Track added to queue »** `{pos}`\n\n🏷 **Name:** [{songname}]({link}) | `video`\n💭 **Chat:** `{chat_id}`\n🎧 **Request by:** {requester} \n💫**Any issues contact :**[✨✫𝗣𝗿𝗮𝘃𝗶𝗻✫✨](https://t.me/Gplove_Rp)",
                     reply_markup=keyboard,
                 )
             else:
@@ -184,7 +184,7 @@ async def vplay(c: Client, m: Message):
                 requester = f"[{m.from_user.first_name}](tg://user?id={m.from_user.id})"
                 await m.reply_photo(
                     photo=f"{IMG_2}",
-                    caption=f"🏷 **Name:** [{songname}]({link})\n💭 **Chat:** `{chat_id}`\n💡 **Status:** `Playing`\n🎧 **Request by:** {requester}\n📹 **Stream type:** `Video` \n💚**Any issues contact :**[🕊.⋆𝙆𝙄𝙉𝙂](https://t.me/cl_me_logesh)",
+                    caption=f"🏷 **Name:** [{songname}]({link})\n💭 **Chat:** `{chat_id}`\n💡 **Status:** `Playing`\n🎧 **Request by:** {requester}\n📹 **Stream type:** `Video` \n💫**Any issues contact :**[✨✫𝗣𝗿𝗮𝘃𝗶𝗻✫✨](https://t.me/Gplove_Rp)",
                     reply_markup=keyboard,
                 )
         else:
@@ -274,7 +274,7 @@ async def vplay(c: Client, m: Message):
                         )
                         await m.reply_photo(
                             photo=thumbnail,
-                            caption=f"💡 **Track added to queue »** `{pos}`\n\n🏷 **Name:** [{songname}]({url}) | `video`\n⏱ **Duration:** `{duration}`\n🎧 **Request by:** {requester} \n💚**Any issues contact :**[🕊.⋆𝙆𝙄𝙉𝙂](https://t.me/cl_me_logesh)",
+                            caption=f"💡 **Track added to queue »** `{pos}`\n\n🏷 **Name:** [{songname}]({url}) | `video`\n⏱ **Duration:** `{duration}`\n🎧 **Request by:** {requester} \n💫**Any issues contact :**[✨✫𝗣𝗿𝗮𝘃𝗶𝗻✫✨](https://t.me/Gplove_Rp)",
                             reply_markup=keyboard,
                         )
                     else:
@@ -294,7 +294,7 @@ async def vplay(c: Client, m: Message):
                             requester = f"[{m.from_user.first_name}](tg://user?id={m.from_user.id})"
                             await m.reply_photo(
                                 photo=thumbnail,
-                                caption=f"🏷 **Name:** [{songname}]({url})\n⏱ **Duration:** `{duration}`\n💡 **Status:** `Playing`\n🎧 **Request by:** {requester}\n📹 **Stream type:** `Video`\n💚**Any issues contact :**[🕊.⋆𝙆𝙄𝙉𝙂](https://t.me/cl_me_logesh)",
+                                caption=f"🏷 **Name:** [{songname}]({url})\n⏱ **Duration:** `{duration}`\n💡 **Status:** `Playing`\n🎧 **Request by:** {requester}\n📹 **Stream type:** `Video`\n💫**Any issues contact :**[✨✫𝗣𝗿𝗮𝘃𝗶𝗻✫✨](https://t.me/Gplove_Rp)",
                                 reply_markup=keyboard,
                             )
                         except Exception as ep:
@@ -415,7 +415,7 @@ async def vstream(c: Client, m: Message):
                 requester = f"[{m.from_user.first_name}](tg://user?id={m.from_user.id})"
                 await m.reply_photo(
                     photo=f"{IMG_1}",
-                    caption=f"💡 **Track added to queue »** `{pos}`\n\n💭 **Chat:** `{chat_id}`\n🎧 **Request by:** {requester}\n💚**Any issues contact :**[🕊.⋆𝙆𝙄𝙉𝙂](https://t.me/cl_me_logesh)",
+                    caption=f"💡 **Track added to queue »** `{pos}`\n\n💭 **Chat:** `{chat_id}`\n🎧 **Request by:** {requester}\n💫**Any issues contact :**[✨✫𝗣𝗿𝗮𝘃𝗶𝗻✫✨](https://t.me/Gplove_Rp)",
                     reply_markup=keyboard,
                 )
             else:
@@ -443,7 +443,7 @@ async def vstream(c: Client, m: Message):
                     )
                     await m.reply_photo(
                         photo=f"{IMG_2}",
-                        caption=f"💡 **[Video live]({link}) stream started.**\n\n💭 **Chat:** `{chat_id}`\n💡 **Status:** `Playing`\n🎧 **Request by:** {requester}\n💚**Any issues contact :** [🕊.⋆𝙆𝙄𝙉𝙂](https://t.me/cl_me_logesh)",
+                        caption=f"💡 **[Video live]({link}) stream started.**\n\n💭 **Chat:** `{chat_id}`\n💡 **Status:** `Playing`\n🎧 **Request by:** {requester}\n💫**Any issues contact :** [✨✫𝗣𝗿𝗮𝘃𝗶𝗻✫✨](https://t.me/Gplove_Rp)",
                         reply_markup=keyboard,
                     )
                 except Exception as ep:
